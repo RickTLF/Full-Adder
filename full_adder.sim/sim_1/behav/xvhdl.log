@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity full_adder_tb
+ERROR: [VRFC 10-1525] use := to assign to variable a [D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd:49]
+ERROR: [VRFC 10-925] indexed name is not a integer [D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd:49]
+ERROR: [VRFC 10-1525] use := to assign to variable b [D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd:50]
+ERROR: [VRFC 10-925] indexed name is not a integer [D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd:50]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd:8]
+INFO: [VRFC 10-240] VHDL file D:/Genesis/graduate/school2016_2017/blok 07/PROGH1/programs/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd ignored due to errors
